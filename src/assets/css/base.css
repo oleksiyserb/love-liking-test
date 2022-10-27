@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+:root {
+  --background-violet: #5f5e7b;
+  --background-violet-2: #4c4b62;
+  --grey: #d9d9d9;
+
+  --heading-grey: #585858;
+  --heading-white: #ffffff;
+
+  --text-white: #ffffff;
+  --text-grey: #727272;
+  --text-blue: #4a7ee3;
+  --text-green: #009206;
+  --text-pink: #ff1d53;
+}
+
+/* semantic color variables for this project */
+:root {
+  font-size: 1.125rem;
+
+  --color-background-primary: var(--background-violet);
+  --color-background-secondary: var(--background-violet-2);
+  --color-background-thirdary: var(--heading-white);
+  --color-background-fourthary: var(--grey);
+
+  --color-text-primary: var(--text-white);
+  --color-text-secondary: var(--text-grey);
+  --color-text-thirdary: var(--background-violet-2);
+
+  --color-heading-primary: var(--heading-grey);
+
+  --color-liking: var(--text-green);
+  --color-love: var(--text-pink);
+  --color-emotion: var(--text-blue);
+
+  --color-border-primary: var(--text-white);
+
+  --section-gap: 1.11rem;
+}
+
+@media (max-width: 768px) {
+  :root {
+    font-size: 1rem;
+  }
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  position: relative;
+  font-weight: normal;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  color: var(--color-text-primary);
+  background: var(--color-background-primary);
+  font-family: "Roboto", sans-serif;
+}

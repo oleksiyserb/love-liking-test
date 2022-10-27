@@ -1,0 +1,130 @@
+{
+  "questions": [
+    {
+      "questionText": "Я відчуваю, що можу довірити йому (їй) абсолютно все.",
+      "answerOptions": [
+        { "answerText": "Так", "points": 4 },
+        { "answerText": "Ймовірно, це так", "points": 3 },
+        { "answerText": "Навряд чи це так", "points": 2 },
+        { "answerText": "Це зовсім не так", "points": 1 }
+      ]
+    },
+    {
+      "questionText": "Коли ми разом, у нас завжди схожий настрій.",
+      "answerOptions": [
+        { "answerText": "Так", "points": 4 },
+        { "answerText": "Ймовірно, це так", "points": 3 },
+        { "answerText": "Навряд чи це так", "points": 2 },
+        { "answerText": "Це зовсім не так", "points": 1 }
+      ]
+    },
+    {
+      "questionText": "Я можу сказати, що він (вона) належить тільки мені.",
+      "answerOptions": [
+        { "answerText": "Так", "points": 4 },
+        { "answerText": "Ймовірно, це так", "points": 3 },
+        { "answerText": "Навряд чи це так", "points": 2 },
+        { "answerText": "Це зовсім не так", "points": 1 }
+      ]
+    },
+    {
+      "questionText": "Він (вона) дуже розумна людина.",
+      "answerOptions": [
+        { "answerText": "Так", "points": 4 },
+        { "answerText": "Ймовірно, це так", "points": 3 },
+        { "answerText": "Навряд чи це так", "points": 2 },
+        { "answerText": "Це зовсім не так", "points": 1 }
+      ]
+    },
+    {
+      "questionText": "Для неї (нього) я готовий (а) абсолютно на все.",
+      "answerOptions": [
+        { "answerText": "Так", "points": 4 },
+        { "answerText": "Ймовірно, це так", "points": 3 },
+        { "answerText": "Навряд чи це так", "points": 2 },
+        { "answerText": "Це зовсім не так", "points": 1 }
+      ]
+    },
+    {
+      "questionText": "У більшості випадків він (вона) подобається людям майже відразу ж після знайомства.",
+      "answerOptions": [
+        { "answerText": "Так", "points": 4 },
+        { "answerText": "Ймовірно, це так", "points": 3 },
+        { "answerText": "Навряд чи це так", "points": 2 },
+        { "answerText": "Це зовсім не так", "points": 1 }
+      ]
+    },
+    {
+      "questionText": "Коли мені погано, то хочеться поділитися тільки з ним (нею).",
+      "answerOptions": [
+        { "answerText": "Так", "points": 4 },
+        { "answerText": "Ймовірно, це так", "points": 3 },
+        { "answerText": "Навряд чи це так", "points": 2 },
+        { "answerText": "Це зовсім не так", "points": 1 }
+      ]
+    },
+    {
+      "questionText": "Я думаю, що ми з ним (нею) внутрішньо схожі один на одного.",
+      "answerOptions": [
+        { "answerText": "Так", "points": 4 },
+        { "answerText": "Ймовірно, це так", "points": 3 },
+        { "answerText": "Навряд чи це так", "points": 2 },
+        { "answerText": "Це зовсім не так", "points": 1 }
+      ]
+    },
+    {
+      "questionText": "Я відчуваю себе у відповіді за те, щоб йому (їй) було добре.",
+      "answerOptions": [
+        { "answerText": "Так", "points": 4 },
+        { "answerText": "Ймовірно, це так", "points": 3 },
+        { "answerText": "Навряд чи це так", "points": 2 },
+        { "answerText": "Це зовсім не так", "points": 1 }
+      ]
+    },
+    {
+      "questionText": "Мені хотілося б бути схожим на нього (неї).",
+      "answerOptions": [
+        { "answerText": "Так", "points": 4 },
+        { "answerText": "Ймовірно, це так", "points": 3 },
+        { "answerText": "Навряд чи це так", "points": 2 },
+        { "answerText": "Це зовсім не так", "points": 1 }
+      ]
+    },
+    {
+      "questionText": "Мені приємно відчувати, що він (вона) довіряє мені більше за інших.",
+      "answerOptions": [
+        { "answerText": "Так", "points": 4 },
+        { "answerText": "Ймовірно, це так", "points": 3 },
+        { "answerText": "Навряд чи це так", "points": 2 },
+        { "answerText": "Це зовсім не так", "points": 1 }
+      ]
+    },
+    {
+      "questionText": "Він (вона) один (одна) з найчарівніших чоловіків (жінок), яких я знаю.",
+      "answerOptions": [
+        { "answerText": "Так", "points": 4 },
+        { "answerText": "Ймовірно, це так", "points": 3 },
+        { "answerText": "Навряд чи це так", "points": 2 },
+        { "answerText": "Це зовсім не так", "points": 1 }
+      ]
+    },
+    {
+      "questionText": "Мені було б дуже важко, якби довелося жити без нього (неї).",
+      "answerOptions": [
+        { "answerText": "Так", "points": 4 },
+        { "answerText": "Ймовірно, це так", "points": 3 },
+        { "answerText": "Навряд чи це так", "points": 2 },
+        { "answerText": "Це зовсім не так", "points": 1 }
+      ]
+    },
+    {
+      "questionText": "Я впевнений (а), що він (вона) добре до мене ставиться.",
+      "answerOptions": [
+        { "answerText": "Так", "points": 4 },
+        { "answerText": "Ймовірно, це так", "points": 3 },
+        { "answerText": "Навряд чи це так", "points": 2 },
+        { "answerText": "Це зовсім не так", "points": 1 }
+      ]
+    }
+  ]
+}
